@@ -1,0 +1,9 @@
+echo "output_tracked1.mp4
+TEST_LONG_VID.mp4
+test_video/
+yolov8n.pt
+best_license_plate.pt
+steering_log.csv
+tempCodeRunnerFile.py
+__pycache__/
+*.pyc" > .gitignore
