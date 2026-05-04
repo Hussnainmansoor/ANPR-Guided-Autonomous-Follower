@@ -1,4 +1,4 @@
-# 🚗 ANPR-Guided-Autonomous-Follower
+# 🚗 ANPR-Guided-Autonomous-Follower.
 
 > A computer vision pipeline that detects, identifies, and autonomously follows a specific target vehicle using license plate recognition and delayed steering logic.
 
